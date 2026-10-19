@@ -78,10 +78,5 @@ Depois, abra o arquivo `index.html` no navegador. Substitua `URL_DO_SEU_REPOSITO
 - Integrar a loja a um carrinho e a um sistema de pagamento.
 - Melhorar a acessibilidade e o suporte à navegação por teclado.
 
-## 📄 Licença
-
-Nenhuma licença foi especificada neste projeto. Se você pretende permitir reutilização ou contribuição pública, considere adicionar um arquivo `LICENSE` com a licença escolhida.
-
----
 
 Desenvolvido como projeto front-end para explorar HTML, CSS, organização de conteúdo e design responsivo.
