@@ -80,3 +80,5 @@ Depois, abra o arquivo `index.html` no navegador. Substitua `URL_DO_SEU_REPOSITO
 
 ##
 Desenvolvido como projeto front-end para explorar HTML, CSS, organização de conteúdo e design responsivo.
+
+INTEGRANTES: Angelica, Lingrid e Luisa
